@@ -1,0 +1,60 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Windows
+*.ini
+desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+*.cache
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Archive files (exclude compressed versions)
+*.zip
+*.rar
+*.7z
+*.tar.gz
+
+# Backup files
+*.bak
+*.backup
+*.old
+
+# Node.js (if any dependencies are added later)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Development files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# System files
+$RECYCLE.BIN/
+System Volume Information/
+
+# Large media files (keep our organized images but exclude potential large uploads)
+*.mov
+*.avi
+*.mkv
+*.webm
+# Note: Our restaurant.mp4 is intentionally included as it's part of the website
